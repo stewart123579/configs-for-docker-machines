@@ -1,0 +1,7 @@
+[push]
+	default = simple
+[user]
+	name = Stewart V. Wright
+	email = stewart@vifortech.com
+[core]
+	excludesfile = ~/.gitignore_global
