@@ -5,3 +5,6 @@
 	email = stewart@vifortech.com
 [core]
 	excludesfile = ~/.gitignore_global
+[filter "clean_ipynb"]
+	clean = ipynb_drop_output
+	smudge = cat

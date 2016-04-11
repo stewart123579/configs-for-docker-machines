@@ -1,0 +1,5 @@
+# IPython notebooks smudge/clean
+# See:
+#    [1] ~/bin/ipynb_drop_output
+#    [2] http://pascalbugnion.net/blog/ipython-notebooks-and-git.html.
+*.ipynb  filter=clean_ipynb
